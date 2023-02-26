@@ -19,6 +19,10 @@
     background-color: hsl(0, 1%, 93%);
 }
 
+.section__paragraph {
+    text-align: justify;
+}
+
 .section__subheader {
     font-weight: normal;
     font-size: 20px;

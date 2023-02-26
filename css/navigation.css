@@ -9,7 +9,7 @@
     list-style-type: none;
     padding-left: 0;
     margin-top: 0;
-    line-height: 4px;
+    line-height: 30px;
 }
 
 .navigation__link {
@@ -22,5 +22,5 @@
 }
 
 .navigation__link:hover {
-    background-color: hsl(0, 3%, 90%);
+    background-color: #ddd;
 }

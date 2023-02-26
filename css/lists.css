@@ -1,0 +1,34 @@
+.list {
+    list-style-type: disc;
+    list-style-position: inside;
+    color: crimson;
+    text-align: center;
+    text-decoration: underline;
+    padding: 5px;
+    line-height: 1.5;
+}
+
+.list--footer {
+    list-style-type: circle;
+    list-style-position: inside;
+    color: crimson;
+    text-align: center;
+    text-decoration: underline;
+    padding: 5px;
+    line-height: 1.5;
+}
+
+.list__link {
+    color: crimson;
+    text-align: center;
+    text-decoration: none;
+}
+
+.list__link:active {
+    color: darkred;
+    font-weight: bold;
+}
+
+.list__link:hover {
+    background-color: hsl(0, 3%, 90%);
+}

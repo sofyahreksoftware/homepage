@@ -1,0 +1,50 @@
+.section {
+    margin-bottom: 20px;
+}
+
+
+.section__header {
+    text-shadow: 4px 4px 12px rgba(217, 232, 247, 1);
+    font-weight: normal;
+    color: blueviolet;
+    padding-top: 15px;
+
+}
+
+.section__subtitle {
+    font-weight: lighter;
+    color: blueviolet;
+    font-size: 25px;
+    text-align: center;
+    background-color: hsl(0, 1%, 93%);
+}
+
+.section__subheader {
+    font-weight: normal;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.section__button {
+    background-color: rgb(187, 144, 228);
+    padding: 17px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500
+}
+
+.section__button:active {
+    background-color: rgba(0, 17, 255, 0.295);
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.section__image {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.section__tableContainer {
+    overflow-x: auto;
+}

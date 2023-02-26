@@ -1,0 +1,26 @@
+.navigation {
+    margin-top: 12px;
+    border-bottom: solid hsl(0, 0%, 60%) 1px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.navigation__list {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    line-height: 4px;
+}
+
+.navigation__link {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.navigation__link:active {
+    color: rgb(32, 0, 61);
+}
+
+.navigation__link:hover {
+    background-color: hsl(0, 3%, 90%);
+}

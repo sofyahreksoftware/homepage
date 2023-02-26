@@ -1,0 +1,27 @@
+.body {
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    color: rgb(29, 29, 29);
+    background-color: #ddd;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.body__changedBackground {
+    background-color: rgb(65, 64, 64);
+}
+
+.body__container {
+    padding: 4%;
+    background-color: hsl(0, 0%, 97%);
+    border: solid #ddd 1px;
+    margin-bottom: 20px;
+}
+
+.body__header {
+    font-weight: 700;
+    font-size: 60px;
+    color: blueviolet;
+    padding: 4%;
+    text-align: center;
+}

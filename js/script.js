@@ -1,4 +1,4 @@
-console.log("Cześć!");
+console.log("Witam wszystkich deweloperów, którzy tutaj zaglądają😜");
 
 let body = document.querySelector(".js__body");
 let button = document.querySelector(".js__button");

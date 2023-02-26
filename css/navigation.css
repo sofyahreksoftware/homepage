@@ -17,10 +17,10 @@
     text-decoration: none;
 }
 
-.navigation__link:active {
-    color: rgb(32, 0, 61);
-}
-
 .navigation__link:hover {
     background-color: #ddd;
+}
+
+.navigation__link:active {
+    color: rgb(32, 0, 61);
 }

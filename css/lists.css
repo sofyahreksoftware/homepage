@@ -24,11 +24,11 @@
     text-decoration: none;
 }
 
+.list__link:hover {
+    background-color: hsl(0, 3%, 90%);
+}
+
 .list__link:active {
     color: darkred;
     font-weight: bold;
-}
-
-.list__link:hover {
-    background-color: hsl(0, 3%, 90%);
 }

@@ -30,7 +30,8 @@
     padding: 17px;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 500
+    font-weight: 500;
+    cursor: pointer;
 }
 
 .section__button:active {

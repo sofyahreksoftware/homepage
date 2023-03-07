@@ -36,6 +36,8 @@
     font-family: 'Courier New', Courier, monospace;
     font-weight: 500;
     cursor: pointer;
+    display: block;
+    margin: 0 auto;
 }
 
 .section__button:active {
